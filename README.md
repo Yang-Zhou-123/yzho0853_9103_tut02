@@ -35,6 +35,6 @@ This is useful for my project because it enables surreal visual outcomes, such a
 ![Coding Technique Screenshot2](image/Technique2.png)
 
 **Example Implementation:**
-*   [View Live Example]
-code on p5 editor: https://editor.p5js.org/sadbot.tech/sketches/Qynekjy7u 
-code on open processing: https://www.openprocessing.org/sketch/1048997
+[View Live Example]
+* code on p5 editor: https://editor.p5js.org/sadbot.tech/sketches/Qynekjy7u 
+* code on open processing: https://www.openprocessing.org/sketch/1048997
