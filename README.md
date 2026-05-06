@@ -2,10 +2,10 @@
 
 ## Part 1: Imaging Technique Inspiration
 
-### Chosen Technique: [    
+### Chosen Technique: 
 * image() layering
 * tint() （color）
-* translate() / rotate() / scale()]
+* translate() / rotate() / scale()
 
 I am inspired by surrealist imaging techniques in The Son of Man and The Persistence of Memory.
 These works use distortion, unexpected object placement, and visual obstruction to challenge reality and perception.
@@ -24,7 +24,7 @@ This approach is beneficial because it allows abstract ideas, such as identity a
 
 ## Part 2: Coding Technique Exploration
 
-### Implementation Strategy: [p5.js image distortion]
+### Implementation Strategy: p5.js image distortion
 
 This sketch uses p5.js image processing and animation techniques, where images are manipulated in real time within the draw() loop. By continuously updating visuals frame by frame, it allows distortion, layering, and dynamic transformation effects to emerge.  
 
